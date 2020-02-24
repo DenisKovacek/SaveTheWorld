@@ -1,0 +1,5 @@
+C:\Users\Denis\Documents\GitHub\SaveTheWorld\SaveWorld\SaveWorld\bin\Debug\SaveWorld.dll
+C:\Users\Denis\Documents\GitHub\SaveTheWorld\SaveWorld\SaveWorld\bin\Debug\SaveWorld.pdb
+C:\Users\Denis\Documents\GitHub\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorld.dll
+C:\Users\Denis\Documents\GitHub\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorld.pdb
+C:\Users\Denis\Documents\GitHub\SaveTheWorld\SaveWorld\SaveWorld\obj\Debug\SaveWorldModel.csprojAssemblyReference.cache
